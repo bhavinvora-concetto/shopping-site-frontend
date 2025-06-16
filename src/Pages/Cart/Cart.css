@@ -1,0 +1,13 @@
+.cart-table tr {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.cart-table thead th {
+  border-bottom: 2px solid #dee2e6;
+  font-weight: 600;
+}
+
+.cart-table td,
+.cart-table th {
+  vertical-align: middle;
+}

@@ -1,0 +1,14 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-toggle {
+  font-size: 1.3rem;
+}
+
+.navbar-container .badge {
+  font-size: 0.7rem;
+  padding: 4px 6px;
+}

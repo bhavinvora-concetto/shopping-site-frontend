@@ -1,0 +1,51 @@
+.order-summary .card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.order-summary h5 {
+  font-weight: 600;
+}
+
+.order-item-card {
+  background-color: #fdfdfd;
+  border: 1px solid #ddd;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.order-item-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.order-item-card small {
+  font-size: 0.75rem;
+  color: #6c757d;
+}
+
+.order-item-card .fw-semibold {
+  font-size: 0.9rem;
+}
+
+.item-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+.price-summary-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  font-size: 0.92rem;
+}
+
+.price-summary-card .small {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.price-summary-card h5,
+.price-summary-card h6 {
+  font-weight: 600;
+}
